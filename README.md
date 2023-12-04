@@ -2,7 +2,7 @@
 Bu proje, Flask web çerçevesi kullanılarak geliştirilmiş basit bir ToDo uygulamasını içermektedir. Kullanıcılar, yeni görevler ekleyebilir, mevcut görevleri tamamlayabilir veya silebilirler.
 
 <h4>Proje Detayları</h4>
-Flask Uygulaması: Ana uygulama dosyası app.py içerisinde bulunmaktadır.
+Flask Uygulaması: Ana uygulama dosyası todo.py içerisinde bulunmaktadır.
 <br>
 Veritabanı: SQLite kullanılarak todo.db adlı bir dosya içinde tutulmaktadır.
 <br>
