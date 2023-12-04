@@ -16,3 +16,8 @@ Görev Ekleme: Kullanıcının yeni görevler eklemesine olanak tanır.
 Görev Tamamlama: Kullanıcının görev tamamlama durumunu değiştirmesine olanak tanır.
 <br>
 Görev Silme: Kullanıcının görevleri silmesine olanak tanır.
+
+
+![image](https://github.com/hponline/TodoList/assets/143675421/4991d91d-35de-4615-be12-94ceedcc7669)
+<hr>
+![image](https://github.com/hponline/TodoList/assets/143675421/84cfb2e0-6a79-43ec-a1af-5847538dd307)
